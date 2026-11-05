@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-attribution-react-inertia",
+  "capabilityKey": "liberusoftware/module-crm-attribution",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-crm-attribution-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/crm/nextjs/attribution.md",
+  "presentationPlan": "projects/crm/react/attribution.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
